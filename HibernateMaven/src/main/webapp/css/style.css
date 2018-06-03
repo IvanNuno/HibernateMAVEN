@@ -1,0 +1,32 @@
+h1
+{
+	border-width: 5px;
+	border-color: black;
+	color: Blue;
+	margin-left: 10px;
+	padding-left: 5px;
+}
+
+h2
+{
+	color: Gray;
+}
+
+header
+{
+	background-color: Lightgreen;
+}
+
+aside
+{
+	background-color: Lightgray;
+}
+
+footer
+{
+	background-color: Lightyellow;
+}
+
+.cons{
+	background-color: Lightyellow;
+}
